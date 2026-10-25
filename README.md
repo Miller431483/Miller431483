@@ -1,12 +1,13 @@
-# Hi, I’m Miller 👋
+### Miller Richard
 
-I’m learning web development and building full-site projects to grow my skills.
+Software engineer focused on Python developer tooling, static/AST analysis, and automated testing workflows.
 
-- 🌱 Currently learning: HTML, CSS, JavaScript, and responsive design
-- 🏗️ Building: a complete website project from idea to deployment
-- 🎯 Goal: create useful, polished web experiences
-- 📚 Learning through: hands-on projects and GitHub
 
-## My first project
+#### Active Projects
 
-I’m building a personal portfolio website to showcase my work as I learn. It will include an About section, projects, skills, contact information, and a responsive mobile layout.
+- **[axiombreak](https://github.com/Miller431483/axiombreak)** — Differential regression testing and AST invariant runner for Python pull requests. Parses AST diffs between `base` and `head`, synthesizes targeted unit tests around modified functions, and verifies them in an isolated subprocess.
+
+#### Stack & Interests
+- **Languages:** Python, TypeScript, Go, SQL
+- **Focus Areas:** Program analysis (`ast`), CI/CD automation, differential fuzzing, LLM-assisted code verification
+- **Contact:** [millerrichard5215@gmail.com](mailto:millerrichard5215@gmail.com)
